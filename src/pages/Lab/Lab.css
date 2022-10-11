@@ -1,0 +1,26 @@
+#lab1{
+    background-color: #223A66;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 1.2rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    
+}
+#lab2{
+    border: 1px solid black;
+    border-radius: 0.2rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+#searchbar{
+    border:1px solid black;
+    margin-top: 3rem;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+}

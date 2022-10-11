@@ -1,0 +1,37 @@
+.Homepage_toprateddesciption{
+    text-align: center;
+    color: #1e1e1e;
+    font-family: Exo;
+    font-weight: 400;
+    padding-bottom: 1rem;
+    font-weight: 200;
+
+}
+.Homepage_title{
+    font-size: 3rem;
+    color:#46C0CC;
+    font-family: Exo;
+    font-weight: 900;
+    text-align: center;
+   
+}
+#homefloat {
+    color: #26BCA9;
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+}
+#homefloat2 {
+    background: #FFFFFF;
+    box-shadow: 3px 1px 11px #919191;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+#homefloat3 {
+    background-color: #223A66;
+    border: none;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    font-weight: 600;
+}
