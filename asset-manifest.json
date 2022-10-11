@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/novabeta/static/css/main.70dfe10f.css",
+    "main.js": "/novabeta/static/js/main.df413544.js",
+    "static/js/787.bad531f5.chunk.js": "/novabeta/static/js/787.bad531f5.chunk.js",
+    "static/media/slider1.png": "/novabeta/static/media/slider1.370666c4af6c23e12d75.png",
+    "static/media/billbackground.png": "/novabeta/static/media/billbackground.bc7c373ffeb27c9cbb26.png",
+    "static/media/doctorimg.png": "/novabeta/static/media/doctorimg.7cd252efb312ce391d1f.png",
+    "static/media/News.png": "/novabeta/static/media/News.961781d2e3dd9a83fac7.png",
+    "static/media/Mobile.png": "/novabeta/static/media/Mobile.3b1f6085a4be8dfc4b36.png",
+    "static/media/success.gif": "/novabeta/static/media/success.05af4fe180edaeca1424.gif",
+    "static/media/failure.gif": "/novabeta/static/media/failure.a1a231a82af05f822a1a.gif",
+    "static/media/doc.png": "/novabeta/static/media/doc.4eeb6a6ed05c749d6b34.png",
+    "static/media/homecardimg.png": "/novabeta/static/media/homecardimg.994a90d420b8fbf164c9.png",
+    "static/media/logobg.png": "/novabeta/static/media/logobg.dbceacae8cfee103b22b.png",
+    "static/media/Peoplecard.png": "/novabeta/static/media/Peoplecard.36301000030c9627e1fd.png",
+    "static/media/playstore.png": "/novabeta/static/media/playstore.0b40eb8728258040e423.png",
+    "static/media/applestore.png": "/novabeta/static/media/applestore.1b61c94e494c923921cf.png",
+    "static/media/promotion.png": "/novabeta/static/media/promotion.1f3db8282899babd7f4d.png",
+    "static/media/novalogo.png": "/novabeta/static/media/novalogo.ad6ee980d39ba9254149.png",
+    "index.html": "/novabeta/index.html",
+    "main.70dfe10f.css.map": "/novabeta/static/css/main.70dfe10f.css.map",
+    "main.df413544.js.map": "/novabeta/static/js/main.df413544.js.map",
+    "787.bad531f5.chunk.js.map": "/novabeta/static/js/787.bad531f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70dfe10f.css",
+    "static/js/main.df413544.js"
+  ]
+}
